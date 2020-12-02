@@ -1,0 +1,16 @@
+{
+    "YYYYmmdd": [
+        {
+            "project": "[PROJECT_NAME_LIKE_rope_skipping]",
+            "amount": "[EXACT_NUMBER_like_1000]",
+            "time": "YYYY-mm-dd HH:MM",
+            "detail":{"key1": "value1"}
+        },
+        {
+            "project": "[PROJECT_NAME_LIKE_inner_running]",
+            "amount": "[EXACT_NUMBER_like_3000]",
+            "time": "YYYY-mm-dd HH:MM",
+            "detail":{"key1": "value1"}
+        }
+    ]
+}
