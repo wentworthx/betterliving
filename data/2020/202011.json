@@ -3,56 +3,56 @@
         {
             "project": "rope_skipping",
             "amount": "1000",
-            "time": "2020-11-30 22:30",
-            "detail":{"inner_type": "single"}
+            "time": "2020-11-30 22:30:00",
+            "details":{"inner_type": "single"}
         },
         {
             "project": "rope_skipping",
             "amount": "50",
-            "time": "2020-11-30 22:30",
-            "detail":{"inner_type": "double"}
+            "time": "2020-11-30 22:30:00",
+            "details":{"inner_type": "double"}
         }
     ],
     "20201126": [
         {
             "project": "rope_skipping",
             "amount": "1000",
-            "time": "2020-11-30 22:30",
-            "detail":{"inner_type": "single"}
+            "time": "2020-11-30 22:30:00",
+            "details":{"inner_type": "single"}
         },
         {
             "project": "rope_skipping",
             "amount": "50",
-            "time": "2020-11-30 22:30",
-            "detail":{"inner_type": "double"}
+            "time": "2020-11-30 22:30:00",
+            "details":{"inner_type": "double"}
         }
     ],
     "20201127": [
         {
             "project": "rope_skipping",
             "amount": "1200",
-            "time": "2020-11-30 22:30",
-            "detail":{"inner_type": "single"}
+            "time": "2020-11-30 22:30:00",
+            "details":{"inner_type": "single"}
         },
         {
             "project": "rope_skipping",
             "amount": "50",
-            "time": "2020-11-30 22:30",
-            "detail":{"inner_type": "double"}
+            "time": "2020-11-30 22:30:00",
+            "details":{"inner_type": "double"}
         }
     ],
     "20201130": [
         {
             "project": "rope_skipping",
             "amount": "1300",
-            "time": "2020-11-30 22:30",
-            "detail":{"inner_type": "single"}
+            "time": "2020-11-30 22:30:00",
+            "details":{"inner_type": "single"}
         },
         {
             "project": "rope_skipping",
             "amount": "50",
-            "time": "2020-11-30 22:30",
-            "detail":{"inner_type": "double"}
+            "time": "2020-11-30 22:30:00",
+            "details":{"inner_type": "double"}
         }
     ]
 }

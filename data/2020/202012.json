@@ -1,7 +1,18 @@
 {
-    "20201201": {
-        "project": "billiards",
-        "amount": "3",
-        "time": "2020-12-01 22:30"
-    }
+    "20201201": [
+        {
+            "project": "billiards",
+            "amount": "3",
+            "time": "2020-12-01 22:30:00",
+            "details": null
+        }
+    ],
+    "20201202": [
+        {
+            "project": "indoor_running",
+            "amount": "6000",
+            "time": "2020-12-02 18:40:00",
+            "details": null
+        }
+    ]
 }
