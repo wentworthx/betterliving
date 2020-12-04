@@ -19,7 +19,11 @@ func init() {
 }
 
 func main() {
+	// TODO: brief interaction.
+	// TODO: webpage on VPS for anywhere record. maybe vue
 	fmt.Println("What have you done today?")
+	// TODO: check & fuzzy matching
+	// TODO: droplist
 	fmt.Scanln(&projectHaveDone)
 	fmt.Println("What is the amount?")
 	fmt.Scanln(&amount)
