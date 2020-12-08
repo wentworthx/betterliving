@@ -44,5 +44,13 @@
             "time": "2020-12-03 23:08:23",
             "details": null
         }
+    ],
+    "20201208": [
+        {
+            "project": "push_up",
+            "amount": "16",
+            "time": "2020-12-08 22:44:11",
+            "details": null
+        }
     ]
 }

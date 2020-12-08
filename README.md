@@ -9,6 +9,7 @@ Records of what I have done for better living.
 - swimming
 - skiing
 - billiards
+- push-up
 - ...to be continued...
 
 ## Watch
