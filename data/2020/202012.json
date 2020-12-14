@@ -2,7 +2,7 @@
     "20201201": [
         {
             "project": "billiards",
-            "amount": "3",
+            "amount": "20",
             "time": "2020-12-01 22:30:00",
             "details": null
         }
@@ -34,13 +34,13 @@
         },
         {
             "project": "table_tennis",
-            "amount": "4",
+            "amount": "15",
             "time": "2020-12-03 23:07:55",
             "details": null
         },
         {
             "project": "billiards",
-            "amount": "1",
+            "amount": "10",
             "time": "2020-12-03 23:08:23",
             "details": null
         }
@@ -50,6 +50,36 @@
             "project": "push_up",
             "amount": "16",
             "time": "2020-12-08 22:44:11",
+            "details": null
+        }
+    ],
+    "20201209": [
+        {
+            "project": "table_tennis",
+            "amount": "16",
+            "time": "2020-12-08 22:44:11",
+            "details": null
+        }
+    ],
+    "20201211": [
+        {
+            "project": "indoor_running",
+            "amount": "8000",
+            "time": "2020-12-11 14:23:04",
+            "details": null
+        },
+        {
+            "project": "push_up",
+            "amount": "20",
+            "time": "2020-12-11 14:24:15",
+            "details": null
+        }
+    ],
+    "20201212": [
+        {
+            "project": "skiing",
+            "amount": "8",
+            "time": "2020-12-12 09:30:00",
             "details": null
         }
     ]
