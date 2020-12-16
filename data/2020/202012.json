@@ -82,5 +82,27 @@
             "time": "2020-12-12 09:30:00",
             "details": null
         }
+    ],
+    "20201214": [
+        {
+            "project": "indoor_running",
+            "amount": "10000",
+            "time": "2020-12-14 22:10:00",
+            "details": null
+        }
+    ],
+    "20201215": [
+        {
+            "project": "push_up",
+            "amount": "17",
+            "time": "2020-12-15 16:50:00",
+            "details": null
+        },
+        {
+            "project": "table_tennis",
+            "amount": "20",
+            "time": "2020-12-15 22:30:00",
+            "details": null
+        }
     ]
 }
