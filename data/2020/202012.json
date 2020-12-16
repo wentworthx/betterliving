@@ -104,5 +104,29 @@
             "time": "2020-12-15 22:30:00",
             "details": null
         }
+    ],
+    "20201216": [
+        {
+            "project": "rope_skipping",
+            "amount": "1400",
+            "time": "2020-12-16 22:34:01",
+            "details": {
+                "inner_type": "single"
+            }
+        },
+        {
+            "project": "rope_skipping",
+            "amount": "100",
+            "time": "2020-12-16 22:34:01",
+            "details": {
+                "inner_type": "double"
+            }
+        },
+        {
+            "project": "push_up",
+            "amount": "18",
+            "time": "2020-12-16 22:34:56",
+            "details": null
+        }
     ]
 }
