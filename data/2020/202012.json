@@ -127,6 +127,18 @@
             "amount": "18",
             "time": "2020-12-16 22:34:56",
             "details": null
+        },
+        {
+            "project": "indoor_running",
+            "amount": "10000",
+            "time": "2020-12-18 22:00:00",
+            "details": null
+        },
+        {
+            "project": "table_tennis",
+            "amount": "15",
+            "time": "2020-12-19 22:30:00",
+            "details": null
         }
     ]
 }
