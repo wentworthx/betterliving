@@ -139,6 +139,24 @@
             "amount": "15",
             "time": "2020-12-19 22:30:00",
             "details": null
+        },
+        {
+            "project": "indoor_running",
+            "amount": "9000",
+            "time": "2020-12-21 21:50:00",
+            "details": null
+        },
+        {
+            "project": "table_tennis",
+            "amount": "15",
+            "time": "2020-12-22 22:30:00",
+            "details": null
+        },
+        {
+            "project": "indoor_running",
+            "amount": "6500",
+            "time": "2020-12-23 21:30:00",
+            "details": null
         }
     ]
 }
